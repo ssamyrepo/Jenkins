@@ -28,6 +28,8 @@
   - kubectl
   - eksctl
 
+![image](https://github.com/user-attachments/assets/f959253c-29c5-4c37-b3b1-3b970f8f6243)
+
 ## Setup Instructions
 ### 1. Set Up Jenkins Master Node on AWS
 - Launch an EC2 instance (Ubuntu, t2.micro, 15GB disk).
