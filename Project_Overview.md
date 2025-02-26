@@ -28,7 +28,8 @@
   - kubectl
   - eksctl
 
-![image](https://github.com/user-attachments/assets/f959253c-29c5-4c37-b3b1-3b970f8f6243)
+![image](https://github.com/user-attachments/assets/189369b0-2755-4012-9496-cc7717e924cf)
+
 
 ## Setup Instructions
 ### 1. Set Up Jenkins Master Node on AWS
