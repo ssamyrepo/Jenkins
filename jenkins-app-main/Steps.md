@@ -4,7 +4,7 @@
 #### **Step 1: Set Up Jenkins Master and Agent**  
 1. **Create Jenkins Master VM on AWS**:  
    - Launch an Ubuntu instance on AWS.  
-   - Name it "Jenkins Master," select a free-tier instance type (e.g., t2.micro), and allocate 15 GB of storage.  
+   - Name it "Jenkins Master," select a free-tier instance type (e.g., t2.medium), and allocate 50 GB of storage.  
    - Generate a new key pair and launch the instance.  
 
 2. **Install Java and Jenkins**:  
