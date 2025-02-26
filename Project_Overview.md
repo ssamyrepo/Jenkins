@@ -1,7 +1,6 @@
 # Real-Time DevOps Project: Deploy to Kubernetes Using Jenkins
 
-## Overview
-This guide outlines an end-to-end DevOps pipeline using Jenkins, Maven, Docker, SonarQube, Trivy, and ArgoCD to automate CI/CD deployment to Kubernetes (EKS). The process ensures seamless integration and deployment when code changes occur in a GitHub repository.
+
 
 ## Project Workflow
 1. **Developer Pushes Code to GitHub**: Triggers CI job in Jenkins.
