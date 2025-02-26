@@ -81,19 +81,4 @@
 - Push changes to GitHub and monitor the pipeline execution.
 - Verify deployment on Kubernetes and application accessibility.
 
-## Conclusion
-By following this guide, you will have a fully automated CI/CD pipeline using Jenkins, Docker, SonarQube, Trivy, and ArgoCD on AWS EKS. Any change in the GitHub repository will trigger an automated build, security scan, and deployment.
-
-## Resources
-- [Jenkins Documentation](https://www.jenkins.io/)
-- [Docker Hub](https://hub.docker.com/)
-- [AWS EKS](https://aws.amazon.com/eks/)
-- [SonarQube](https://www.sonarqube.org/)
-- [ArgoCD](https://argoproj.github.io/argo-cd/)
-
-## Contributing
-Pull requests are welcome! If you encounter issues, feel free to open a discussion.
-
-## License
-This project is licensed under the MIT License.
 
