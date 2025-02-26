@@ -1,4 +1,4 @@
-# Register App
+# CICD Customer Accounts Maintenance App
 
 ## Overview
 This Jenkins App is a web application designed for managing user accounts. It includes a backend server built with Java and a frontend web interface. The application supports Docker containerization and CI/CD integration via Jenkins.
